@@ -2,6 +2,10 @@
 
 This project demonstrates deploying the **Strapi headless CMS** on **AWS** using **Terraform** and **Docker**. The infrastructure is fully automated, and Strapi runs as a container on an EC2 instance with persistent storage.
 
+## 📹 Demo Video
+
+Watch the video here: https://www.loom.com/share/e03761103db144d981feb0096429d17f
+
 ## Prerequisites
 
 * Terraform >= 1.12
