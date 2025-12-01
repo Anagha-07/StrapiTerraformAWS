@@ -111,3 +111,9 @@ strapi_url = "http://<EC2_PUBLIC_IP>:1337"
 ```
 http://<EC2_PUBLIC_IP>:1337/admin/auth/register-admin
 ```
+<img width="1061" height="577" alt="image" src="https://github.com/user-attachments/assets/e389fd3f-34d3-4a01-950d-8edd5e231a30" />
+
+<img width="911" height="928" alt="image" src="https://github.com/user-attachments/assets/1585a094-6a93-4043-87da-ed56824ed898" />
+
+<img width="1916" height="792" alt="image" src="https://github.com/user-attachments/assets/ce8d777e-e0a3-4519-a9ac-6a7d1e72c7ae" />
+
